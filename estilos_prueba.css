@@ -1,0 +1,18 @@
+.container {
+	padding: 20px;
+	background: #ddd;
+	font-family:sans-serif;
+	color:#666;
+}
+.img1 {
+	max-width: 100%;
+	width: 100%;
+	height: auto;
+}
+.img2 {
+	width: 100%;
+}
+.img3 {
+	max-width: 100%;
+	height: auto;
+}
