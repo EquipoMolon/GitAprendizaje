@@ -374,9 +374,20 @@ section {
 .btn {
 	padding: 10px 20px;
 	border-radius: 5px;
-	border: grey;
+	border: 2px solid grey;
 	background-color: yellow;
 	color: black;
+	margin: 10px 0;
+	display: inline-block;
+	transition: 0.3s;
+}
+
+.btn1 {
+	padding: 10px 20px;
+	border-radius: 5px;
+	border: 2px solid purple;
+	background-color: blue;
+	color: orange;
 	margin: 10px 0;
 	display: inline-block;
 	transition: 0.3s;
@@ -386,6 +397,12 @@ section {
 	transform: scale(1.2);
 	letter-spacing: 3px;
 	color: white;
+}
+
+.btn1:hover {
+	transform: scale(1.2);
+	letter-spacing: 3px;
+	color: green;
 }
 
 article p {
