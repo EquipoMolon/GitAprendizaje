@@ -411,6 +411,11 @@ article p {
 	letter-spacing: 5px;
 }
 
+#articulo4 p {
+	color: orange;
+	text-shadow: 2px 2px 5px black;
+}
+
 @media (max-width: 1200px) {
 		
 	#modulo1 {
