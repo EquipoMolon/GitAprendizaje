@@ -384,6 +384,14 @@ section {
 
 .btn:hover {
 	transform: scale(1.2);
+	letter-spacing: 3px;
+	color: white;
+}
+
+article p {
+	color: green;
+	padding: 20px;
+	letter-spacing: 5px;
 }
 
 @media (max-width: 1200px) {
