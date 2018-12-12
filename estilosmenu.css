@@ -371,6 +371,16 @@ section {
 	/*margin-bottom: 25px; /*No veo que haga nada*/
 }
 
+.btn {
+	padding: 10px 20px;
+	border-radius: 5px;
+	border: grey;
+	background-color: yellow;
+	color: black;
+	margin: 10px 0;
+	display: inline-block;
+}
+
 @media (max-width: 1200px) {
 		
 	#modulo1 {
